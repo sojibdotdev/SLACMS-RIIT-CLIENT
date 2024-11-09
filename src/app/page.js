@@ -23,13 +23,13 @@ export default function Home() {
           </div>
         </Link>
 
-        <Link href="/createroutin">
+        {/* <Link href="/createroutin">
           <div className="flex flex-col  items-senter">
             <Image className="rounded-xl hover:border-4 border-[#12284c]" src={ru} width={200} height={200} />
 
             <h1 className="text-center  text-gray-600 font-semibold">Create Routine</h1>
           </div>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
